@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "5fe6e73f97e0f31f34b67a7d"
+  },
+  "tenBan": "Tu",
+  "tenMua": "nam",
+  "theLoaiTien": "BIT",
+  "soLuong": "7",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": 6000000,
+  "tienphaitra": 18000000,
+  "viTien": 302000001,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe80fa7f11f6916fc71c513"
+  },
+  "tenBan": "tando",
+  "tenMua": "nam",
+  "theLoaiTien": "LIT",
+  "soLuong": "1",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": "2",
+  "tienphaitra": 2,
+  "viTien": 323999999,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe8111ef11f6916fc71c515"
+  },
+  "tenBan": "tando",
+  "tenMua": "nam",
+  "theLoaiTien": "LIT",
+  "soLuong": "1",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": "2000000",
+  "tienphaitra": 2000000,
+  "viTien": 322000001,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe812ece816f428602a591a"
+  },
+  "tenBan": "nam",
+  "tenMua": "nam",
+  "theLoaiTien": "ETH",
+  "soLuong": "2",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": "200000",
+  "tienphaitra": 400000,
+  "viTien": 323600001,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe8144ae816f428602a591c"
+  },
+  "tenBan": "evans",
+  "tenMua": "evans",
+  "theLoaiTien": "ETH",
+  "soLuong": "3",
+  "idThangMua": "5fe810138bb8559c6740b737",
+  "donGiaMua": "2000000",
+  "tienphaitra": 6000000,
+  "viTien": 94000000,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe81d89464db92cb8dafb7b"
+  },
+  "tenMua": "nam",
+  "theLoaiTien": "LIT",
+  "tenBan": "nam",
+  "soLuong": "2",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": "21",
+  "tienphaitra": 42,
+  "trangThai": "bán",
+  "viTien": 324000043
+},{
+  "_id": {
+    "$oid": "5fe81dbd464db92cb8dafb7c"
+  },
+  "tenMua": "nam",
+  "theLoaiTien": "LIT",
+  "tenBan": "nam",
+  "soLuong": "2",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": "21",
+  "tienphaitra": 42,
+  "trangThai": "bán",
+  "viTien": 324000043
+},{
+  "_id": {
+    "$oid": "5fe81f8c0e05e930282ac807"
+  },
+  "tenMua": "nam",
+  "theLoaiTien": "ETH",
+  "tenBan": "nam",
+  "soLuong": "2",
+  "idThangMua": "5fdb1bd5aa4ca110f88dda49",
+  "donGiaMua": "2000000",
+  "tienphaitra": 4000000,
+  "trangThai": "bán",
+  "viTien": 328000001
+},{
+  "_id": {
+    "$oid": "5fe82451d6cd0024a0a5f675"
+  },
+  "tenMua": "nam",
+  "theLoaiTien": "ETH",
+  "tenBan": "tando",
+  "soLuong": "2",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "1000000",
+  "tienphaitra": 2000000,
+  "trangThai": "bán",
+  "viTien": 4000000
+},{
+  "_id": {
+    "$oid": "5fe8246ad6cd0024a0a5f676"
+  },
+  "tenBan": "nam",
+  "tenMua": "tando",
+  "theLoaiTien": "ETH",
+  "soLuong": "1",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "200000",
+  "tienphaitra": 200000,
+  "viTien": 1800000,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe8252dd6cd0024a0a5f678"
+  },
+  "tenBan": "nam",
+  "tenMua": "tando",
+  "theLoaiTien": "ETH",
+  "soLuong": "2",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "1000000",
+  "tienphaitra": 2000000,
+  "viTien": 0,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe8259fd6cd0024a0a5f679"
+  },
+  "tenBan": "nam",
+  "tenMua": "tando",
+  "theLoaiTien": "ETH",
+  "soLuong": "2",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "1000000",
+  "tienphaitra": 2000000,
+  "viTien": 0,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe825b7d6cd0024a0a5f67a"
+  },
+  "tenBan": "evans",
+  "tenMua": "tando",
+  "theLoaiTien": "LIT",
+  "soLuong": "2",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "1000000",
+  "tienphaitra": 2000000,
+  "viTien": 0,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe825c7d6cd0024a0a5f67b"
+  },
+  "tenBan": "evans",
+  "tenMua": "tando",
+  "theLoaiTien": "ETH",
+  "soLuong": "1",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "2000000",
+  "tienphaitra": 2000000,
+  "viTien": 0,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe82619d6cd0024a0a5f67c"
+  },
+  "tenBan": "nam",
+  "tenMua": "tando",
+  "theLoaiTien": "ETH",
+  "soLuong": "1",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "200000",
+  "tienphaitra": 200000,
+  "viTien": 800000,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe82628d6cd0024a0a5f67d"
+  },
+  "tenBan": "nam",
+  "tenMua": "tando",
+  "theLoaiTien": "ETH",
+  "soLuong": "1",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "1000000",
+  "tienphaitra": 1000000,
+  "viTien": 0,
+  "trangThai": "mua"
+},{
+  "_id": {
+    "$oid": "5fe82aabd6cd0024a0a5f681"
+  },
+  "tenBan": "evans",
+  "tenMua": "tando",
+  "theLoaiTien": "LIT",
+  "soLuong": "1",
+  "idThangMua": "5fdb1befaa4ca110f88dda4a",
+  "donGiaMua": "1000000",
+  "tienphaitra": 1000000,
+  "viTien": 0,
+  "trangThai": "mua"
+}]

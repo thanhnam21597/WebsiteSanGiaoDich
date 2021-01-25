@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5f87d508cc1f2ee783c4d41e"
+  },
+  "CustomerID": "1",
+  "Email": "dung@gmail.com",
+  "Name": "dung",
+  "PhoneNum": "090850323"
+},{
+  "_id": {
+    "$oid": "5f87d56bcc1f2ee783c4d41f"
+  },
+  "CustomerID": "2",
+  "Email": "ga@gmail.com",
+  "Name": "namthanh",
+  "PhoneNum": "090853214"
+},{
+  "_id": {
+    "$oid": "5f87f86375c477abb53ae7cf"
+  },
+  "CustomerID": "3",
+  "Email": "bebe@gmail.com",
+  "Name": "thanhbo",
+  "PhoneNum": "0908532141"
+},{
+  "_id": {
+    "$oid": "5f87f89975c477abb53ae7d1"
+  },
+  "CustomerID": "4",
+  "Email": "abc@gmail.com",
+  "Name": "abc",
+  "PhoneNum": "09082341"
+}]

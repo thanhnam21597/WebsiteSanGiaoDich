@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "5f880a0d75c477abb53ae7ea"
+  },
+  "WalletAmmountID": "1",
+  "Amount": "10000",
+  "Ammountcode": "c4ca4238a0b923820dcc509a6f75849b",
+  "moneyTypeId": "1",
+  "walletId": "1",
+  "Giaodich": {
+    "Loaigiaodich": "Rút Tiền",
+    "Soluong": "10",
+    "coin": "BitCoin",
+    "Total": "2000",
+    "status ": "chờ xác nhận",
+    "date": {
+      "$date": "1998-01-21T17:00:00Z"
+    },
+    "MasoTK": "DSHJFBSD783RNSDFH73",
+    "NameNganhang": "ABC"
+  }
+},{
+  "_id": {
+    "$oid": "5f880e7d1a0f18330ca9cec7"
+  },
+  "Amount": "0",
+  "Ammountcode": "c81e728d9d4c2f636f067f89cc14862c",
+  "moneyTypeId": "2",
+  "walletId": "1",
+  "Giaodich": {
+    "Loaigiaodich": "Rút Tiền",
+    "Soluong": "2",
+    "coin": "ETH",
+    "Total": "2000",
+    "status ": "chờ xác nhận",
+    "date": {
+      "$date": "1998-01-21T17:00:00Z"
+    },
+    "MasoTK": "DSHJFBSD783RNSDFH73dfdf",
+    "NameNganhang": "Agribank"
+  }
+},{
+  "_id": {
+    "$oid": "5f880f5a1a0f18330ca9cec8"
+  },
+  "Amount": "0",
+  "Ammountcode": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+  "moneyTypeId": "2",
+  "walletId": "1",
+  "Giaodich": {
+    "Loaigiaodich": "Nạp Tiền",
+    "Soluong": "2",
+    "coin": "ETH",
+    "Total": "2000",
+    "status ": "chờ xác nhận",
+    "date": {
+      "$date": "1998-01-21T17:00:00Z"
+    },
+    "MasoTK": "DSHJFBSD783RNSDFH73dfdf",
+    "NameNganhang": "Agribank"
+  }
+},{
+  "_id": {
+    "$oid": "5f880f8775c477abb53ae7ef"
+  },
+  "WalletAmmountID": "4",
+  "Amount": "0",
+  "Ammountcode": "a87ff679a2f3e71d9181a67b7542122c",
+  "moneyTypeId": "1",
+  "walletId": "4"
+},{
+  "_id": {
+    "$oid": "5f880fc075c477abb53ae7f1"
+  },
+  "WalletAmmountID": "5",
+  "Amount": 1014304.2655000001,
+  "Ammountcode": "e4da3b7fbbce2345d7772b0674a318d5",
+  "moneyTypeId": "1",
+  "walletId": "2"
+}]

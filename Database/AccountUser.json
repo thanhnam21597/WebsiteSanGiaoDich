@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "5fdb1bd5aa4ca110f88dda49"
+  },
+  "ten": "nam",
+  "taikhoan": {
+    "email": "thanhnam@gmail.com",
+    "password": "$2b$10$Wj.2gyBVPqljM3QOSrIy2u2Ui7Nv.BzFKKUyJtuEw.w1Eg8rm4z8G"
+  },
+  "vaitro": 2,
+  "Amount": 324000001,
+  "NameType": "USDT",
+  "AmoutCode": "JSKIDFJSDFDSDSDSAXSA"
+},{
+  "_id": {
+    "$oid": "5fdb1befaa4ca110f88dda4a"
+  },
+  "ten": "tando",
+  "NameType": "USDT",
+  "taikhoan": {
+    "email": "tando@gmail.com",
+    "password": "$2b$10$pp9SVqtFeBH0FxRVk4PQrOePk5OxwkAe39YldOCQ1IG66Zk0dp/Su"
+  },
+  "vaitro": 2,
+  "Amount": 1000000,
+  "AmoutCode": "ASFSCDSVDFBNFGNF"
+},{
+  "_id": {
+    "$oid": "5fdb200303844e2ff0ef8e90"
+  },
+  "ten": "abc1",
+  "taikhoan": {
+    "email": "abc@gmail.com",
+    "password": "$2b$10$pp9SVqtFeBH0FxRVk4PQrOePk5OxwkAe39YldOCQ1IG66Zk0dp/Su"
+  },
+  "vaitro": 0
+},{
+  "_id": {
+    "$oid": "5fe810138bb8559c6740b737"
+  },
+  "ten": "evans",
+  "taikhoan": {
+    "email": "evan@gmail.com",
+    "password": "$2b$10$Wj.2gyBVPqljM3QOSrIy2u2Ui7Nv.BzFKKUyJtuEw.w1Eg8rm4z8G"
+  },
+  "vaitro": 2,
+  "Amount": 100000000,
+  "NameType": "USDT",
+  "AmoutCode": "JSKIDFJSDFDSDSDSAXSA"
+},{
+  "_id": {
+    "$oid": "5fe815528bb8559c6740b73a"
+  },
+  "ten": "Tu",
+  "NameType": "USDT",
+  "taikhoan": {
+    "email": "Tu@gmail.com",
+    "password": "$2b$10$pp9SVqtFeBH0FxRVk4PQrOePk5OxwkAe39YldOCQ1IG66Zk0dp/Su"
+  },
+  "vaitro": 2,
+  "Amount": 100000,
+  "AmoutCode": "ASFSCDSVDFBNFGNF"
+}]

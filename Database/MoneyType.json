@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "5f87d36dcc1f2ee783c4d419"
+  },
+  "moneyTypeID": "1",
+  "Name": "USDT",
+  "Step": "0.1"
+},{
+  "_id": {
+    "$oid": "5f87d44bcc1f2ee783c4d41a"
+  },
+  "Name": "Bitcoin",
+  "Step": "1E-06"
+},{
+  "_id": {
+    "$oid": "5f87d47dcc1f2ee783c4d41c"
+  },
+  "Name": "Eth",
+  "Step": "1E-06"
+},{
+  "_id": {
+    "$oid": "5f87d496cc1f2ee783c4d41d"
+  },
+  "Name": "Tether USDT",
+  "Step": "1E-05"
+}]

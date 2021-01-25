@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5f87cf7fcc1f2ee783c4d411"
+  },
+  "Rate": "0.9",
+  "Convert To": "1",
+  "Convert Form": "1"
+},{
+  "_id": {
+    "$oid": "5f87cfadcc1f2ee783c4d412"
+  },
+  "Rate": "2000",
+  "Convert To": "1",
+  "Convert Form": "2"
+},{
+  "_id": {
+    "$oid": "5f87d00dcc1f2ee783c4d413"
+  },
+  "Rate": "1000",
+  "Convert To": "1",
+  "Convert Form": "3"
+},{
+  "_id": {
+    "$oid": "5f87d230cc1f2ee783c4d417"
+  },
+  "Rate": "0.5",
+  "Convert To": "1",
+  "Convert Form": "4"
+}]
